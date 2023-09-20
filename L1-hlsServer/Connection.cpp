@@ -1,6 +1,3 @@
-//
-// Created by bxc on 2023/1/7.
-//
 
 #include "Connection.h"
 #include <iostream>
