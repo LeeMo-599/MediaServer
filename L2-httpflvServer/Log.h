@@ -1,6 +1,3 @@
-﻿//
-// Created by bxc on 2023/1/7.
-//
 
 #ifndef BXC_MEDIASERVER_LOG_H
 #define BXC_MEDIASERVER_LOG_H
