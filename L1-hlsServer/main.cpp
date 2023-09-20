@@ -1,6 +1,3 @@
-﻿//
-// Created by bxc on 2023/1/7.
-//
 
 #include <stdint.h>
 #include <WinSock2.h>
